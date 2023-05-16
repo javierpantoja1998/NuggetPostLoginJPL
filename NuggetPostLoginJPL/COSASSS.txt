@@ -1,0 +1,11 @@
+oy2gewcvdrigs6yljq4a7qmhgqfcxyxupbrmprmirgx2u4
+
+
+
+nuget push NugetCustomerAPI_JPL.4.2.0.nupkg oy2gewcvdrigs6yljq4a7qmhgqfcxyxupbrmprmirgx2u4 -source https://api.nuget.org/v3/index.json
+
+APP ID:
+9766bcfc-6a3b-4a40-94b1-2104516f20f3
+
+SECRET KEY->
+n2o8Q~JsPqck~joKF3yxVcBpaRkPTeeaHBSntc1J
